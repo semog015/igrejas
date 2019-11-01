@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Santuario De Fatima
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:0,CANÇÃO NOVA 
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-b.m3u8
